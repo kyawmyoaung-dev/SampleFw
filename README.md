@@ -1,5 +1,4 @@
-# SampleFW
-Clean Architecture
+# Clean Architecture
 ## Architecture & Design
   - Domain Layer
   - Application Layer
